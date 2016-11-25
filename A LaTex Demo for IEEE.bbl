@@ -1,0 +1,45 @@
+\begin{thebibliography}{1}
+
+\bibitem{zhou2007bipartite}
+T.~Zhou, J.~Ren, M.~Medo, and Y.-C. Zhang, ``Bipartite network projection and
+  personal recommendation,'' {\em Physical Review E}, vol.~76, no.~4,
+  p.~046115, 2007.
+
+\bibitem{de2015bipartite}
+T.~de~Paulo~Faleiros and A.~de~Andrade~Lopes, ``Bipartite graph for topic
+  extraction,'' in {\em Proceedings of the 24th International Conference on
+  Artificial Intelligence}, pp.~4361--4362, AAAI Press, 2015.
+
+\bibitem{hu2007co}
+T.~Hu, H.~Xiong, and S.~Y. Sung, ``Co-preserving patterns in bipartite
+  partitioning for topic identification.,'' in {\em SDM}, pp.~509--514, SIAM,
+  2007.
+
+\bibitem{tang2012user}
+X.~Tang, M.~Zhang, and C.~C. Yang, ``User interest and topic detection for
+  personalized recommendation,'' in {\em Proceedings of the The 2012
+  IEEE/WIC/ACM International Joint Conferences on Web Intelligence and
+  Intelligent Agent Technology-Volume 01}, pp.~442--446, IEEE Computer Society,
+  2012.
+
+\bibitem{bell2007modeling}
+R.~Bell, Y.~Koren, and C.~Volinsky, ``Modeling relationships at multiple scales
+  to improve accuracy of large recommender systems,'' in {\em Proceedings of
+  the 13th ACM SIGKDD international conference on Knowledge discovery and data
+  mining}, pp.~95--104, ACM, 2007.
+
+\bibitem{hofmann1999latent}
+T.~Hofmann and J.~Puzicha, ``Latent class models for collaborative filtering,''
+  in {\em IJCAI}, vol.~99, pp.~688--693, 1999.
+
+\bibitem{shen2012learning}
+Y.~Shen and R.~Jin, ``Learning personal+ social latent factor model for social
+  recommendation,'' in {\em Proceedings of the 18th ACM SIGKDD international
+  conference on Knowledge discovery and data mining}, pp.~1303--1311, ACM,
+  2012.
+
+\bibitem{bishop2006pattern}
+C.~M. Bishop, {\em Pattern Recognition and Machine Learning}.
+\newblock Springer, 2006.
+
+\end{thebibliography}

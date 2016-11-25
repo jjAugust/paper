@@ -1,0 +1,55 @@
+This is BibTeX, Version 0.99d (TeX Live 2015)
+Capacity: max_strings=35307, hash_size=35307, hash_prime=30011
+The top-level auxiliary file: A LaTex Demo for IEEE.aux
+The style file: ieeetr.bst
+Database file #1: reference.bib
+Repeated entry---line 148 of file reference.bib
+ : @inproceedings{de2015bipartite
+ :                               ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 194 of file reference.bib
+ : @inproceedings{tang2012user
+ :                            ,
+I'm skipping whatever remains of this entry
+You've used 8 entries,
+            1876 wiz_defined-function locations,
+            529 strings with 5016 characters,
+and the built_in function-call counts, 2674 in all, are:
+= -- 275
+> -- 75
+< -- 0
++ -- 28
+- -- 20
+* -- 166
+:= -- 339
+add.period$ -- 9
+call.type$ -- 8
+change.case$ -- 7
+chr.to.int$ -- 0
+cite$ -- 8
+duplicate$ -- 157
+empty$ -- 271
+format.name$ -- 20
+if$ -- 673
+int.to.chr$ -- 0
+int.to.str$ -- 8
+missing$ -- 9
+newline$ -- 28
+num.names$ -- 8
+pop$ -- 44
+preamble$ -- 1
+purify$ -- 0
+quote$ -- 0
+skip$ -- 117
+stack$ -- 0
+substring$ -- 215
+swap$ -- 70
+text.length$ -- 0
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 0
+warning$ -- 0
+while$ -- 27
+width$ -- 9
+write$ -- 82
+(There were 2 error messages)
